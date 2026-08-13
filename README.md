@@ -4,7 +4,7 @@ This project was developed as part of the academic practical course **Model Vehi
 
 The main focus was building a reliable inductive sensing front-end — from coil selection and analog filtering all the way to a closed-loop PID controller driving the steering servo.
 
-![Project Photo](https://private-user-images.githubusercontent.com/167676434/635531369-6f0d4fc9-aa34-4853-9071-84e332985af4.jpg)
+<img width="1542" height="1636" alt="633277471-a3e7aeb8-da59-4d44-a7a7-b86dd7f87540" src="https://github.com/user-attachments/assets/c72bdc49-17c0-4664-8140-5f3f7273a164" />
 
 ## Contributions
 
