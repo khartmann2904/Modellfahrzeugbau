@@ -8,15 +8,9 @@ This project was developed as part of the academic practical course **Model Vehi
 
 ---
 
-## 📸 Project Gallery
+## 📸 Project Photo
 
-> *Tip: Place your project photos in an `/assets` folder within your repository and update the links below.*
-
-| Hardware & Platform | Sensor Assembly & Testing |
-| :---: | :---: |
-| ![Vehicle Hardware](assets/vehicle_overview.jpg) | ![Sensor Setup](assets/sensor_setup.jpg) |
-| *Overall view of the model vehicle platform* | *Front-mounted inductive sensor array* |
-
+<img width="771" height="1024" alt="ecb7fb0c78e9e8d6d69b4808f92121e1ec2c0224e7bfb5673c5b6f73679783f2" src="https://github.com/user-attachments/assets/a3e7aeb8-da59-4d44-a7a7-b86dd7f87540" />
 ---
 
 ## 🎯 Key Responsibilities & Contributions
