@@ -10,8 +10,8 @@ This project was developed as part of the academic practical course **Model Vehi
 
 ## 📸 Project Photo
 
-<img width="771" height="1024" alt="ecb7fb0c78e9e8d6d69b4808f92121e1ec2c0224e7bfb5673c5b6f73679783f2" src="https://github.com/user-attachments/assets/a3e7aeb8-da59-4d44-a7a7-b86dd7f87540" />
----
+<img width="1542" height="1636" alt="633277471-a3e7aeb8-da59-4d44-a7a7-b86dd7f87540" src="https://github.com/user-attachments/assets/6f0d4fc9-aa34-4853-9071-84e332985af4" />
+
 
 ## 🎯 Key Responsibilities & Contributions
 
