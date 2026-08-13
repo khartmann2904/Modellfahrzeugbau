@@ -44,14 +44,3 @@ In diesem Projekt lag mein Schwerpunkt auf der **Konzeption der Sensorik, der an
 3. **Auswertung:**
    $$\text{Querablagefehler} = \frac{V_{\text{links}} - V_{\text{rechts}}}{V_{\text{links}} + V_{\text{rechts}}}$$
 4. **Regelung:** Der berechnete Fehler dient dem Regler als Eingangsgröße, um den Servo-Lenkwinkel kontinuierlich nachzuführen.
-
----
-
-## 👤 Kontakt
-
-**Kevin Hartmann**  
-*Student der Elektrotechnik (B.Sc.) – TU Braunschweig*  
-*Spezialisierung: Autonome Intelligente Systeme / Embedded Systems*  
-
-- **LinkedIn:** [Dein Profil-Link] *(optional)*
-- **GitHub:** [@khartmann2904](https://github.com/khartmann2904)
