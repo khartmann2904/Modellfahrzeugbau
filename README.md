@@ -31,7 +31,7 @@ My core focus in this project centered on **sensor design, analog signal conditi
 
 ---
 
-## 💡 How It Works (Overview)
+## 💡 How It Works
 
 1. **Magnetic Field Generation:** An AC signal passing through the floor wire generates a circular alternating magnetic field.
 2. **Inductive Sensing:** Two symmetrical coils mounted at the vehicle's front induce an AC voltage proportional to the distance from the wire.
