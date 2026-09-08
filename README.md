@@ -28,11 +28,7 @@ My core focus in this project centered on sensor design, analog signal condition
 
 1. **Magnetic Field Generation** — An AC signal passing through the floor wire generates a circular alternating magnetic field.
 2. **Inductive Sensing** — Two symmetrical coils mounted at the vehicle's front induce an AC voltage proportional to the distance from the wire.
-3. **Cross-Track Error Calculation:**
-
-   $$\text{Error} = \frac{V_{\text{left}} - V_{\text{right}}}{V_{\text{left}} + V_{\text{right}}}$$
-
-   Normalization ensures immunity against signal strength variations and height fluctuations.
+3. **Cross-Track Error Calculation**
 4. **Steering Control** — A PID controller processes the error value to continuously adjust the servo angle, keeping the vehicle centered on the wire.
 
 ## Notes
