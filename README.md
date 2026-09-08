@@ -8,7 +8,7 @@ The main focus was building a reliable inductive sensing front-end — from coil
 
 ## Track 
 
-<img width="2040" height="1536" alt="WhatsApp Image 2026-09-08 at 23 22 18" src="https://github.com/user-attachments/assets/2f2d6f87-6b12-4ef5-8ca0-04e30dd73ad6" />
+<img width="1020" height="768" alt="WhatsApp Image 2026-09-08 at 23 22 18" src="https://github.com/user-attachments/assets/2f2d6f87-6b12-4ef5-8ca0-04e30dd73ad6" />
 
 ## Contributions
 
