@@ -6,6 +6,10 @@ The main focus was building a reliable inductive sensing front-end — from coil
 
 <img width="771" height="818" alt="633277471-a3e7aeb8-da59-4d44-a7a7-b86dd7f87540" src="https://github.com/user-attachments/assets/c72bdc49-17c0-4664-8140-5f3f7273a164" />
 
+## Track 
+
+<img width="2040" height="1536" alt="WhatsApp Image 2026-09-08 at 23 22 18" src="https://github.com/user-attachments/assets/2f2d6f87-6b12-4ef5-8ca0-04e30dd73ad6" />
+
 ## Contributions
 
 My core focus in this project centered on sensor design, analog signal conditioning, and closed-loop steering control:
